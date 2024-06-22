@@ -1,0 +1,7 @@
+my_String = input('В каком университете Вы обучаетесь? И в каком году Вы поступили?! ')
+print(len(my_String))
+print(my_String .upper())
+print(my_String .lower())
+print(my_String .replace(' ', ''))
+print(my_String[0])
+print(my_String[-1])
